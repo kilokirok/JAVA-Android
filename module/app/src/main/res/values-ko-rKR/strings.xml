@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">해상 대전</string>
+    <string name="title_activity_splash">폭발</string>
+    <string name="bgm">배경 음악 재생</string>
+    <string name="bgmon"> 켬 </string>
+    <string name="bgmoff"> 끔 </string>
+    <string name="mis"> 여러개의 미사일을 발사하기</string>
+    <string name="dep">여러개의 어뢰 혹은 폭뢰 발사하기</string>
+    <string name="yes">네</string>
+    <string name="no">아니오</string>
+    <string name="hspeed">헬리콥터 속도 조절 </string>
+    <string name="sspeed"> 잠수함 속도 조절 </string>
+    <string name="normal">보통</string>
+    <string name="dirh"> 헬리콥터 방향 </string>
+    <string name="bothside">양방향</string>
+    <string name="toright">왼쪽 -> 오른쪽</string>
+    <string name="toleft">오른쪽 -> 왼쪽</string>
+    <string name="fast">빠름</string>
+    <string name="slow">느림</string>
+
+    <string name="score">점수:  </string>
+    <string name="time"> 남은 시간:  </string>
+    <string name="gameover"> 게임 종료!!! </string>
+    <string name="finscore"> 당신의 점수는  </string>
+    <string name="newgame"> 다시하기 </string>
+    <string name="quit"> 공부하러 가기 </string>
+
+    <string name="best"> 최고 점수  </string>
+    <string name="first_fragment_label">1번 조각</string>
+    <string name="second_fragment_label">2번 조각</string>
+    <string name="next">다음</string>
+    <string name="previous">이전</string>
+    <string name="hello_first_fragment">안녕 1번 조각</string>
+    <string name="hello_second_fragment">안녕 2번 조각</string>
+
+
+</resources>

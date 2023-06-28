@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="speedentries">
+        <item>Fast</item>
+        <item>Normal</item>
+        <item>Slow</item>
+    </string-array>
+
+    <string-array name="direntries">
+        <item>Left to Right</item>
+        <item>Right to Left</item>
+        <item>Both side</item>
+    </string-array>
+
+
+</resources>

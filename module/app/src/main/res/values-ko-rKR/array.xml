@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="speedentries">
+        <item>빠름</item>
+        <item>일반</item>
+        <item>느림</item>
+    </string-array>
+
+    <string-array name="direntries">
+        <item>왼쪽 -> 오른쪽</item>
+        <item>오른쪽 -> 왼쪽</item>
+        <item>양 방향</item>
+    </string-array>
+
+</resources>

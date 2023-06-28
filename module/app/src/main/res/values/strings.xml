@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Battle ship war</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="bgm">Play with music</string>
+    <string name="bgmon"> On </string>
+    <string name="bgmoff"> Off </string>
+    <string name="mis">player shoots more than one missile on-screen</string>
+    <string name="dep">player shoots more than one depthcharge on-screen</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="hspeed"> Set Helicopter speed </string>
+    <string name="sspeed"> Set Submarine speed </string>
+    <string name="normal">Normal</string>
+    <string name="dirh"> Helicopter Direction </string>
+    <string name="bothside">Both side</string>
+    <string name="toright">Left to Right</string>
+    <string name="toleft">Right to Left</string>
+    <string name="fast">Fast</string>
+    <string name="slow">Slow</string>
+
+    <string name="score">YOUR SCORE:  </string>
+    <string name="time"> Left Time:  </string>
+    <string name="gameover"> GAME OVER!!! </string>
+    <string name="finscore"> Your score is  </string>
+    <string name="newgame"> New game? </string>
+    <string name="quit"> GO TO STUDY? </string>
+
+    <string name="best"> BEST SCORE IS  </string>
+
+
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
